@@ -196,7 +196,7 @@ font-weight:500;
 }
 
 
-@media (max-width:375px){
+@media (max-width:550px){
 .bg{
     display:none;
 }
